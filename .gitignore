@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data files (optional - you might want to keep small datasets)
+*.csv
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
